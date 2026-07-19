@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "categories": {
+    "god": {
+      "name": "God Images",
+      "display_name": "🙏 God Images",
+      "icon": "🕉️",
+      "description": "Beautiful images of deities",
+      "folder": "god",
+      "images": [
+        "image1.jpg",
+        "image2.jpg",
+        "image3.jpg"
+      ]
+    },
+    "nature": {
+      "name": "Nature Images",
+      "display_name": "🌿 Nature",
+      "icon": "🌳",
+      "description": "Beautiful nature landscapes",
+      "folder": "nature",
+      "images": [
+        "image1.jpg",
+        "image2.jpg",
+        "image3.jpg"
+      ]
+    }
+  }
+}
